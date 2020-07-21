@@ -2,7 +2,7 @@
 
 # Facebook Messenger Clone
 
-- **Netflix Clone made with React and Firebase**
+- **Facebook Messenger Clone made with React and Firebase**
 
 ## Tech Stack
 
