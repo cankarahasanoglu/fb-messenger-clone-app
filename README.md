@@ -1,6 +1,6 @@
 # Link https://messenger-clone-8451b.web.app/
 
-# Netflix Clone
+# Facebook Messenger Clone
 
 - **Netflix Clone made with React and Firebase**
 
