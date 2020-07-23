@@ -13,7 +13,4 @@
 - [Material UI](https://material-ui.com/)
   - Icons and design patterns
 
-## Author
-
-- Can Karahasanoglu
 
